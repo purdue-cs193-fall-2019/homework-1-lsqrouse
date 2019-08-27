@@ -1,7 +1,7 @@
 # Quinn Rouse's First CS 193 Homework
 - freedom is cool 
 - great powerpoint pictures
-- comfy chairs
+- instructors seem cool
 
 ## Welcome to GitHub Pages
 
